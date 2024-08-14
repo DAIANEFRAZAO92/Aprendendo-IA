@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portifólio - Daiane Frazão</title>
+</head>
+<body>   
+
+
+    <header>
+    <a href="http://google.com.br" target="_blank" rel="noopener noreferrer">link para o google</a>
+    <!-- Neste item é onde que colocamos o site que queremos -->
+    </header>
+    
+    <div> 
+        <h1>Estudando sobre IA </h1>
+
+    </div>
+
+    <div>
+        <h2>Essa tecnologia tem o potencial de mudar a maneira como vivemos, desde automações de tarefas repetidas , 
+            resoluções de problemas complexos, enfim dentro das diversas esferas que consituem a sociedade 
+            a inteligência artificial irá revololucionar. </h2>
+
+    </div>
+    <div>
+        <p>Meus futuros projetos</p>
+        <b>letra b deixa em negrito</b>
+    </div>
+<!-- Div :Divisão do site; H é titulo, h1 é o maior, h6 é menor, p: paragrafo -->
+</body>
+</html> 
